@@ -44,11 +44,11 @@ Build a machine learning model that can classify emails as **spam (1)** or **not
 
 ## 🚀 Model Overview
 
-Train Accuracy	99.98%
-Test Accuracy 	96.91%
-Precision     	91%
-Recall	        99%
-F1-score      	95%
+Train Accuracy	99.83%
+Test Accuracy 	97.58%
+Precision     	92%
+Recall	        100%
+F1-score      	96%
 
 ---
 
